@@ -1,0 +1,50 @@
+    1  git checkout milkshake-flavours.md
+    2  git status
+    3  git branch
+    4  git checkput
+    5  git checkout
+    6  ls
+    7  git status
+    8  config --global user.email "tevin.mlangeni@gmail.com"
+    9  git config --global user.email "tevin.mlangeni@gmail.com"
+   10  git status
+   11  cat README.md
+   12  mkdir git-basic-exercises
+   13  ls 
+   14  cd git-basic-exercises
+   15  ls -a
+   16  git status
+   17  git branch
+   18  git checkout
+   19  git branch
+   20  git checkout milkshake-flavours
+   21  'nano milkshakes.md
+   22  q
+   23  q
+   24  q
+   25  git config --global user.email "tevin.mlangeni@gmail.com
+   26  git config --global user.email "tevin.mlangeni@gmail.com"
+   27  git config --global user.email "tevin.mlangeni@gmail.com"
+   28  cd git-basic-exercises
+   29  git bramch
+   30  git branch
+   31  nano milkshakes.md
+   32  git status
+   33  git commit -m "added initial flavours"
+   34  git add milkshakes.md
+   35  git commit -m "added initial flavours"
+   36  git log
+   37  git checkout main
+   38  git checkout master
+   39  git checkout milkshake-flavours
+   40  git checkout master
+   41  git status
+   42  git branch
+   43  git branch 
+   44  git branch history
+   45  git branch
+   46  git checkout history
+   47  git log
+   48  git bramch
+   49  git branch
+   50  history > history.txt
